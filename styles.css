@@ -1,0 +1,23 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  background-repeat: no-repeat;
+  background-attatchment:fixed;
+}
+
+h1 {
+  margin-bottom: 40px;
+}
+
+.well {
+  width: 50%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+#random-btn {
+  margin-left: 100px;
+}
